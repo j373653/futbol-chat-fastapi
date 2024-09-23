@@ -1,0 +1,3 @@
+fastapi==0.95.0        # Framework para APIs con soporte para WebSockets
+uvicorn==0.22.0       # Servidor ASGI para ejecutar tu aplicación FastAPI
+websockets==10.3      # Biblioteca para manejar WebSockets
